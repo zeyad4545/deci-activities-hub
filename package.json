@@ -1,7 +1,7 @@
 {
   "name": "deci-activities-hub",
   "version": "1.0.0",
-  "type": "commonjs",
+  "type": "module",
   "description": "This repository is going to act as the base for the physical activities for DECI.",
   "main": "index.js",
   "scripts": {
